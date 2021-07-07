@@ -1,0 +1,15 @@
+div{
+  margin-bottom: 10px;
+}
+body {
+
+  display: flex;
+  flex-direction: row;
+}
+input{
+  width: 100%;
+}
+.message{
+  display: flex;
+  flex-direction: column;
+}
